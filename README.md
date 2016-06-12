@@ -2,4 +2,6 @@
 
 > Un projet de Floriane Turmeau
 
-© Tous droits réservés
+![screenshot](screenshot.png?raw=true)
+
+© Tous droits réservés sur les images
